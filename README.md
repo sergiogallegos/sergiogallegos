@@ -27,6 +27,7 @@
     <img src="https://komarev.com/ghpvc/?username=sergiogallegos&style=flat-square&color=blue" alt=""/>
 </div>
 
+### :man_technologist: About Me
 
 - 🔭 I’m currently working on Valtrek as Controls Engineer
 - 🌱 I’m currently learning Python
@@ -34,7 +35,8 @@
 - ⚡ Fun fact: when i'm not working i'm enjoying my 2 kids.
 - 🐱‍👤 Hobbies: youtube, netflix, programming, gym, running, play with my kids.
 
-- 🛠  Languages and Tools I'm Interested: 
+
+### :hammer_and_wrench: Languages and Tools I'm Interested: :
 <!-- Icons -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
