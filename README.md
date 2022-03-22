@@ -32,8 +32,8 @@
 - 🔭 I’m currently working on Valtrek as Controls Engineer
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Open Source Projects
-- ⚡ Fun fact: when i'm not working i'm enjoying my 2 kids.
-- 🐱‍👤 Hobbies: youtube, netflix, programming, gym, running, play with my kids.
+- ⚡ Fun fact: father of 2. wife is awesome :p .
+- 🐱‍👤 Hobbies: youtube, netflix, programming, gym, running.
 
 
 ### :hammer_and_wrench: Languages and Tools I'm Interested: :
@@ -59,9 +59,9 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sergiogallegos&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sergiogallegos&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogallegos&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogallegos&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
