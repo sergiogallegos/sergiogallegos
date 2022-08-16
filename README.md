@@ -30,7 +30,7 @@
 ### :man_technologist: About Me
 
 - 🔭 I’m currently working on Valtrek as Controls Engineer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and doing some C# and SQL
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: father of 2. wife is awesome :p .
 - 🐱‍👤 Hobbies: youtube, netflix, programming, gym, running.
