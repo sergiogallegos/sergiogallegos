@@ -30,10 +30,10 @@
 ### :man_technologist: About Me
 
 - 🔭 I’m currently working on Valtrek as Controls Engineer
-- 🌱 I’m currently learning Python and doing some C# and SQL
+- 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: father of 2. wife is awesome :p .
-- 🐱‍👤 Hobbies: youtube, netflix, programming, gym, running.
+- 🐱‍👤 Hobbies: youtube, netflix, programming, reading, running.
 
 
 ### :hammer_and_wrench: Languages and Tools I'm Interested: :
