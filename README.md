@@ -30,7 +30,7 @@
 ### :man_technologist: About Me
 
 - 🔭 I’m currently working on Valtrek as Controls Engineer
-- 🌱 I’m currently starting my Bachelor's degree, Computer Science
+- 🌱 I’m currently starting Computer Science
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: father of 2. wife is awesome :p .
 - 🐱‍👤 Hobbies: youtube, netflix, programming, reading, running.
