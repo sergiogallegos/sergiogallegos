@@ -33,7 +33,7 @@
 - 🌱 I’m starting Computer Science - MSSwE
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: father of 2. wife is awesome :p .
-- 🐱‍👤 Hobbies: youtube, netflix, programming, reading, running.
+- 🐱‍👤 Hobbies: youtube, programming, reading, running.
 
 
 ### :hammer_and_wrench: Languages and Tools I'm Interested: :
