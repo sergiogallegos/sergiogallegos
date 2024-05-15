@@ -29,8 +29,8 @@
 
 ### :man_technologist: About Me
 
-- 🔭 I’m working at Valtrek as Controls Engineer
-- 🌱 I’m starting Computer Science - MSSwE
+- 🔭 I’m working at Valtrek as Controls Engineer.
+- 🌱 I’m starting on Computer Science / Software Development. 
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: father of 2. wife is awesome :p .
 - 🐱‍👤 Hobbies: youtube, programming, reading, running.
