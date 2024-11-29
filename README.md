@@ -35,7 +35,8 @@
 - ⚡ Fun fact: father of 2. wife is awesome :p
 - 🛝 Hobbies: youtube, programming, reading, running.
 - 👨‍💻 Setup: wezterm, neovim, kinesis keyboards, MX-ergo mouse.
-- 🦀 Learning Rust.
+- 🦀🐹 Learning: Rust & Go.
+- 🏫 Languages Used at School: Java & Python.
 
 
 ### :hammer_and_wrench: Languages and Tools I'm Interested: :
