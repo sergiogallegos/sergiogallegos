@@ -37,6 +37,7 @@
 - 👨‍💻 Setup: wezterm, neovim, kinesis keyboards, MX-ergo mouse.
 - 🦀🐹 Learning: Rust & Go.
 - 🏫 Languages Used at School: Java & Python.
+- 👨‍💼 Lanuguages Used at Work: C#.
 
 
 ### :hammer_and_wrench: Languages and Tools I'm Interested: :
