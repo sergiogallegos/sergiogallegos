@@ -36,7 +36,7 @@
 - 🛝 Hobbies: youtube, programming, reading, running.
 - 👨‍💻 Setup: wezterm, neovim, kinesis keyboards, MX-ergo mouse.
 - 🦀🐹 Learning: Rust & Go.
-- 🏫 Languages Used at School: Java & Python.
+- 🏫 Languages Used at School: Java, Python, C.
 - 👨‍💼 Lanuguages Used at Work: C#.
 
 
