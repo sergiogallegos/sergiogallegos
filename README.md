@@ -35,9 +35,9 @@
 - ⚡ Fun fact: father of 2.
 - 🛝 Hobbies: youtube, programming, reading, running.
 - 👨‍💻 Setup: wezterm, neovim, kinesis keyboards, MX-ergo mouse.
-- 🦀 Learning: Rust, Go.
-- 🏫 Languages Used at School: Java, Python, C, C++.
-- 👨‍💼 Lanuguages Used at Work: C#.
+- 🦀 Learning: Rust, Go, Javascript, Typescript.
+- 🏫 Used at School: Java, Python, C, C++.
+- 👨‍💼 Used at Work: C#.
 
 
 ### :hammer_and_wrench: Languages and Tools I'm Interested: :
