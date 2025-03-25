@@ -30,7 +30,7 @@
 ### :man_technologist: About Me
 
 - ⏰ I’m working at Valtrek as Controls Engineer.
-- 🌱 I’m studying the Master Degree in Software Engineering. 
+- 🌱 I’m pursuit the Master Degree in Software Engineering. 
 - 🏗️ I’m looking to collaborate on Open Source Projects.
 - ⚡ Fun fact: father of 2.
 - 🛝 Hobbies: youtube, programming, reading, running.
