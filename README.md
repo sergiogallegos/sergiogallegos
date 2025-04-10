@@ -32,8 +32,8 @@
 - ⏰ I’m working at Valtrek as Controls Engineer.
 - 🌱 I’m pursuit the Master Degree in Software Engineering. 
 - 🏗️ I’m looking to collaborate on Open Source Projects.
-- ⚡ Fun fact: father of 2.
-- 🛝 Hobbies: youtube, programming, reading, running.
+- ⚡ Father of 2.
+- 🛝 Hobbies: youtube, programming, reading, running, gym.
 - 👨‍💻 Setup: wezterm, neovim, kinesis keyboards, MX-ergo mouse.
 - 🦀 Learning: Rust, Go, Javascript, Typescript.
 - 🏫 Used at School: Java, Python, C, C++.
