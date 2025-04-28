@@ -34,8 +34,8 @@
 - 🏗️ I’m looking to collaborate on Open Source Projects.
 - ⚡ Father of 2.
 - 🛝 Hobbies: youtube, programming, reading, running, gym.
-- 👨‍💻 Setup: wezterm or kitty, neovim, kinesis keyboards, MX-ergo mouse.
-- OS : Work(Windows), School(MacOS), HomePC(Linux/Fedora).
+- 👨‍💻 Setup: wezterm or kitty, neovim, kinesis keyboards, MX-ergo mouse, 2 Monitors.
+- 👨‍💻 OS: Work(Windows), School(MacOS), HomePC(Linux/Fedora).
 - 🦀 Interseted in Learn: Rust, Go, Ocaml, Zig, Javascript, Typescript.
 - 🏫 Used at School: Java, Python, C/C++.
 - 👨‍💼 Some Use at Work: C#, SQL.
