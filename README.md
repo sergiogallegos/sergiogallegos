@@ -33,8 +33,8 @@
 - 🌱 I’m pursuit the Master Degree in Software Engineering. 
 - 🏗️ I’m looking to collaborate on Open Source Projects.
 - ⚡ Father of 2.
-- 🛝 Hobbies: youtube, programming, reading, running, gym.
-- 👨‍💻 Setup: wezterm or kitty, neovim, kinesis keyboards, MX-ergo mouse, 2 Monitors.
+- 🛝 Hobbies: youtube, netflix, programming, reading, running, gym, soccer.
+- 👨‍💻 Setup: i3, kitty, tmux, neovim, kinesis keyboards, MX-ergo mouse, 1-2 Monitors.
 - 👨‍💻 OS: Work(Windows), School(MacOS), HomePC(Linux/Fedora).
 - 🦀 Interseted in Learn: Rust, Go, Ocaml, Zig, Typescript.
 - 🏫 Used at School: Java, Python, C, C++, Javascript.
