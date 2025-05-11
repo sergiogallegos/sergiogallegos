@@ -77,7 +77,7 @@
 - **Motherboard**: MSI MAG B650 Tomahawk
 - **CPU**: AMD Ryzen 9 7900X (12-Core / 24 Thread)
 - **Cooler**: Cooler MasterLiquid ML240L RGB V2
-- **GPU**: NVIDIA ZOTAC Gaming RTX 3060 Twin Edge (Looking to upgrade to NVIDIA GeForce RTX 4090).
+- **GPU**: NVIDIA ZOTAC Gaming RTX 3060 Twin Edge.
 - **RAM**: CORSAIR VENGEANCE DDR5 64GB (2x32GB)
 - **Storage**: Samsung 980 PRO SSD (2TB + 1TB)
 - **Power Supply**: Corsair RM1000x
