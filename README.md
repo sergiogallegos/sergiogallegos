@@ -73,35 +73,33 @@
 ## 🖥️ PC & Workstation Setup
 
 ### 🔧 PC Hardware
-- **Case**: CORSAIR 4000D AirFlow Mid-Tower ATX  
-- **Motherboard**: MSI MAG B650 Tomahawk  
-- **CPU**: AMD Ryzen 9 7900X (12-Core / 24 Thread)  
-- **Cooler**: Cooler MasterLiquid ML240L RGB V2  
-- **GPU**: ZOTAC Gaming RTX 3060 Twin Edge  
-- **RAM**: CORSAIR VENGEANCE DDR5 64GB (2x32GB)  
-- **Storage**: Samsung 980 PRO SSD (2TB + 1TB)  
-- **Power Supply**: Corsair RM1000x  
-- **UPS**: APC Back-UPS Pro BN 1500VA  
-- **Keyboard**: Kinesis Advantage 2 / HHKB Type-S  
-- **Mouse**: Logitech G502 Hero / MX Ergo  
+- **Case**: CORSAIR 4000D AirFlow Mid-Tower ATX
+- **Motherboard**: MSI MAG B650 Tomahawk
+- **CPU**: AMD Ryzen 9 7900X (12-Core / 24 Thread)
+- **Cooler**: Cooler MasterLiquid ML240L RGB V2
+- **GPU**: NVIDIA ZOTAC Gaming RTX 3060 Twin Edge (Looking to upgrade to NVIDIA GeForce RTX 4090).
+- **RAM**: CORSAIR VENGEANCE DDR5 64GB (2x32GB)
+- **Storage**: Samsung 980 PRO SSD (2TB + 1TB)
+- **Power Supply**: Corsair RM1000x
+- **UPS**: APC Back-UPS Pro BN 1500VA
+- **Keyboard**: Kinesis Advantage 2 & 360 / HHKB Type-S
+- **Mouse**: Logitech G502 Hero / MX Ergo
 
 ### 🔊 Audio Setup
-- **Interface**: Focusrite Scarlett Solo (4th Gen)  
-- **Headphones**: Audio-Technica ATH-M50X  
-- **Mixer**: TC-Helicon GoXLR  
-- **Microphone**: Shure SM7B  
+- **Headphones**: Audio-Technica ATH-M50X
+- **Mixer**: TC-Helicon GoXLR
+- **Microphone**: Shure SM7B
 
 ### 🎥 Video & Streaming
-- **Capture Card**: Elgato HD60 X  
-- **Camera**: Sony Alpha a6400  
-- **Lens**: Sigma 16mm f/1.4  
+- **Capture Card**: Elgato HD60 X
+- **Camera**: Sony Alpha a6400
+- **Lens**: Sigma 16mm f/1.4
 - **Webcam**: Logitech C922 Pro Stream  
 
 ### 🧩 Peripherals
-- **Stream Deck**: Elgato Stream Deck MK.2  
-- **Tablet**: Wacom Intuos Pro  
-- **MIDI Controller**: AKAI MPK Mini MK3  
-- **Lighting**: Elgato Key Light Pro 2800  
+- **Stream Deck**: Elgato Stream Deck MK.2
+- **Tablet**: Wacom Intuos Pro
+- **Lighting**: Elgato Key Light Pro 2800
 
 ### 💻 Laptop
 - **MacBook Pro M2 14”** – 16GB RAM, 512GB SSD
