@@ -24,8 +24,8 @@ Currently pursuing a **Master’s in Software Engineering**, I’m passionate ab
 - 🦀 Exploring: Rust · Go · Zig · OCaml · TypeScript  
 - 💻 Programming Languages: C · C++ · Python · Java · C# · JavaScript  
 - 🧰 Operating Systems: Work (Windows) · School (macOS) · Home (Linux)  
-- ⚙️ Setup: i3 · Kitty · Tmux · Neovim · Kinesis keyboards · MX-Ergo mouse  
-- 🧒 Father of two | 🏃 Runner | 📖 Reader | ⚽ Soccer | 💪 Gym  
+- ⚙️ Setup: Ghostty · Zed · Neovim · Kinesis keyboards · MX-Ergo mouse  
+- 🧒 Father of two | 📖 Reader | ⚽ Soccer | 💪 Gym  
 
 ---
 
