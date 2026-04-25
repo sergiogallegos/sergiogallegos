@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 **Sergio Gallegos**
-### *Automation & Controls Engineer • Software Engineering Graduate Student*
+### *Software Engineer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-gallegos-24271a66/)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOVoUxvP6oOJqPIfm0_n6Sg)  
@@ -15,7 +15,7 @@
 
 ### 🧭 About Me
 
-I’m **Sergio Gallegos**, a Senior Automation & Controls Engineer with 12+ years of experience designing and programming industrial systems—integrating PLCs, HMIs, robots, and vision systems.  
+I’m **Sergio Gallegos**, a Senior Engineer with experience designing and programming industrial systems—integrating PLCs, HMIs, robots, and vision systems.  
 Currently pursuing a **Master’s in Software Engineering**, I’m passionate about bridging **intelligent hardware** with **robust software systems**.
 
 - 💼 Senior Engineer @ **Valtrek**  
