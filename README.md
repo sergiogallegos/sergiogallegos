@@ -68,21 +68,6 @@ Goals include:
 
 ---
 
-### 🎵 DJVibeBar
-Full-stack music queue platform built with modern backend and frontend technologies.
-
-Stack includes:
-- Rust
-- Axum
-- Tokio
-- React
-- TypeScript
-- PostgreSQL
-- AWS
-
-Focused on learning scalable backend architecture, async systems, APIs, and cloud deployment.
-
----
 
 ## Tech Stack
 
