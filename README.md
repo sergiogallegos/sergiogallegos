@@ -2,7 +2,7 @@
 
 # Sergio Gallegos
 
-### Industrial Software Engineering × Automation
+### Industrial Automation Software Engineering
 
 Industrial Automation Software Engineer building backend, connectivity, and platform software for industrial systems.
 
