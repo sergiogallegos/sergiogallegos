@@ -4,7 +4,7 @@
 
 ### Industrial Software Engineering × Automation
 
-Controls Engineering Manager and software engineer building backend, connectivity, and platform software for industrial systems.
+Industrial Automation Software Engineer building backend, connectivity, and platform software for industrial systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-gallegos-24271a66/)
 [![Website](https://img.shields.io/badge/Website-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://sergiogallegos.net/)
