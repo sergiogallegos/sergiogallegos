@@ -19,7 +19,7 @@ Industrial Automation Software Engineer building backend, connectivity, and plat
 
 ## About
 
-I’m Sergio Gallegos — a Controls Engineering Manager with 14+ years of experience in industrial automation, machine controls, robotics, motion, industrial networking, and production-critical systems.
+I’m Sergio Gallegos , with 14+ years of experience in industrial automation, machine controls, robotics, motion, industrial networking, and production-critical systems.
 
 I’m currently completing an M.S. in Software Engineering and transitioning deeper into product software engineering for industrial platforms.
 
