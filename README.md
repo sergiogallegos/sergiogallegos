@@ -2,7 +2,7 @@
 
 # Sergio Gallegos
 
-### Industrial Software Engineer
+### Software Engineer
 
 Building backend, connectivity, and platform software for industrial systems — primarily with **TypeScript** and **Rust**.
 
