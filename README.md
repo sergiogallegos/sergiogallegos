@@ -4,191 +4,117 @@
 
 ### Software Engineer
 
-Building backend, connectivity, and platform software for industrial systems — primarily with **TypeScript** and **Rust**.
+Building backend services, connected systems, and developer tools — primarily with TypeScript and Rust.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-gallegos-24271a66/)
-[![Website](https://img.shields.io/badge/Website-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://sergiogallegos.net/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOVoUxvP6oOJqPIfm0_n6Sg)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SergioGallegosH)
-![Profile Views](https://komarev.com/ghpvc/?username=sergiogallegos&style=flat-square&color=blueviolet)
-
+LinkedIn
+Website
+YouTube
+X
 </div>
 
----
+———
 
 ## About
 
-I’m Sergio Gallegos, with 14+ years of experience in industrial automation, machine controls, robotics, motion, industrial networking, and production-critical systems.
+I’m a software engineer with 14+ years of experience in industrial automation and controls engineering. Working with machines, networks, and production systems shaped how I approach software: understanding how systems interact, working within real-world constraints, and building for reliability.
 
-I’m currently completing an M.S. in Software Engineering and transitioning deeper into product software engineering for industrial platforms.
+I’m currently pursuing an M.S. in Software Engineering at the University of Texas at El Paso, with expected graduation in Spring 2027.
 
-My primary software interests are:
+Many of my open-source projects draw on my automation background. I enjoy applying that experience to software problems across industries, exploring new ideas, and building tools other engineers can use.
 
-- Backend and platform engineering
-- Industrial connectivity and OT systems
-- Concurrent, event-driven, and high-reliability systems
-- Performance-oriented systems programming (**Rust**)
-- Full-stack and tooling development (**TypeScript**)
+## Software Interests
 
-I’m especially interested in software teams building products that sit between machines, industrial networks, data, and modern software infrastructure.
+- Backend services, APIs, and platform architecture
+- Concurrent, asynchronous, and event-driven systems
+- Systems programming and performance with Rust
+- Full-stack applications and developer tooling with TypeScript
+- Connectivity, real-time data, and visualization
+- Reliable, maintainable open-source software
 
----
+———
 
-## Current Focus
+## Featured Open-Source Projects
 
-- Industrial software platforms and OT connectivity
-- Backend systems with **TypeScript** and **Rust**
-- SCADA / MES / historian architecture
-- Time-series and industrial data pipelines
-- Concurrent and asynchronous systems
-- Event-driven architectures
-- Performance, reliability, and systems programming
-- Open-source industrial tooling
+### rust-ethernet-ip
 
----
+A cross-platform EtherNet/IP / CIP explicit-messaging client for communicating with Allen-Bradley ControlLogix and CompactLogix PLCs.
 
-## Featured Open Source Projects
+Built with async Rust and Tokio, with a focus on reliable communication, memory safety, and integration into other applications. Used in production and verified against real hardware.
 
-### 🦀 rust-ethernet-ip
+The project includes APIs for Rust, C#, Python, C, and C++.
 
-A cross-platform EtherNet/IP / CIP explicit-messaging client for industrial automation systems.
+Engineering focus: network protocols, asynchronous I/O, systems programming, and language interoperability.
 
-Built with a focus on:
+View repository →
 
-- Allen-Bradley ControlLogix / CompactLogix communication
-- High-performance industrial networking
-- Async Rust with Tokio
-- Memory-safe systems programming
-- Multi-language APIs
-- Production-oriented industrial connectivity
+### OpenWebHMI
 
-Languages / APIs:
-- Rust
-- C#
-- Python
-- C
-- C++
+An open-source web-based HMI / SCADA platform, in development for customer applications on real machinery.
 
-🔗 https://github.com/sergiogallegos/rust-ethernet-ip
+The project explores real-time visualization, PLC connectivity, modular drivers, and extensible backend services. Areas of ongoing development include alarms, historian capabilities, and integration between application services and control systems.
 
----
+Engineering focus: backend architecture, real-time interfaces, modularity, and data flow.
 
-### 🌐 OpenWebHMI
+View repository →
 
-An open-source industrial HMI / SCADA platform exploring modern software architecture for automation systems.
+### tinyPLC
 
-Areas of focus:
+An educational control engine where I explore compiler and runtime design by compiling Structured Text into native control logic.
 
-- Web-native industrial interfaces
-- Real-time tag visualization
-- PLC / protocol connectivity
-- Alarms and historian concepts
-- Modular driver architecture
-- Extensible backend services
-- Modern OT software design
+The project is a way to study how programming languages become executable behavior and how a control runtime coordinates that execution.
 
-🔗 https://github.com/sergiogallegos/OpenWebHMI
+Engineering focus: compilers, language implementation, and runtime design.
 
----
+Explore my projects →
 
-## Tech Stack
+———
 
-### Primary Languages
+## Technical Background
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,rust" />
-</p>
+| Area | Technologies & Experience |
+|---|---|
+| Primary languages | TypeScript, Rust |
+| Additional languages | C#, Python, C++, C |
+| Backend | Node.js, Tokio, Axum, .NET |
+| Data & communication | PostgreSQL, TimescaleDB, REST, WebSockets, MQTT |
+| Frontend | React, TypeScript, HTML, CSS, real-time visualization |
+| Development tools | Git, Docker, GitHub Actions, Neovim, Zed |
+| Platforms | Linux, macOS, Windows |
 
-**Core pair:** TypeScript + Rust
+### Automation & Controls
 
-**Also used when the problem calls for it:**
+My engineering background includes electrical system design, PLC programming, HMI / SCADA, industrial robotics, motion control, and machine vision.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,python,cpp,c" />
-</p>
+I’ve worked with Allen-Bradley / Rockwell Automation, ControlLogix / CompactLogix, and Beckhoff TwinCAT, alongside industrial communication technologies including EtherNet/IP / CIP, OPC UA, MQTT, and Modbus.
 
-### Backend & Data
+That experience gives me a practical foundation for designing software that interacts with hardware, networks, and real-world processes.
 
-- **TypeScript** / Node.js
-- **Rust** (Tokio, Axum, async systems)
-- C# / .NET (when needed)
-- PostgreSQL + TimescaleDB
-- REST, WebSockets, MQTT
-- Docker + GitHub Actions
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,html,css" />
-</p>
-
-- React + TypeScript
-- Real-time industrial dashboards
-- Lightweight visualization
-
-### Systems & Industrial Automation
-
-- Allen-Bradley / Rockwell Automation
-- ControlLogix / CompactLogix
-- Beckhoff TwinCAT
-- PLC programming
-- HMI / SCADA
-- Industrial robotics
-- Servo / motion control
-- Industrial vision systems
-- EtherNet/IP / CIP
-- OPC UA
-- MQTT
-- Modbus
-- Industrial Ethernet
-
----
+———
 
 ## Education
 
-### M.S. Software Engineering — University of Texas at El Paso  
-**In progress — expected Spring 2027**
+### M.S. Software Engineering — University of Texas at El Paso
 
-Relevant coursework:
-- Software Requirements Engineering
-- Software Project Management
-- Software Architecture & Design
-- Software Integration / Verification & Validation
-- Machine Learning
-- Data Mining
-- Software Construction
-- Advanced Algorithms
-- Software Engineering Practicum
+In progress · Expected Spring 2027
+
+Studies include software architecture and design, requirements engineering, verification and validation, algorithms, machine learning, and data mining.
 
 ### B.S. Electromechanical Engineering
 
-Background includes control systems, dynamics, robotics/automation, electrical systems, and mathematics through differential equations.
+Foundation in control systems, electrical systems, dynamics, robotics, and applied mathematics.
 
----
-
-## Development Environment
-
-- Linux / macOS / Windows
-- Ghostty
-- Neovim
-- Zed
-- Git
-- Docker
-- GitHub Actions
-
----
+———
 
 ## Beyond Engineering
 
-- Father of two
-- Lifelong learner
-- Interested in teaching, research, and open-source engineering
-- Enjoy systems, algorithms, industrial technology, math, and scientific computing
+I’m a father of two, a soccer fan, and someone who enjoys understanding how things work.
 
----
+Outside my core projects, I explore mathematics, algorithms, scientific computing, and computational science. I’m also interested in teaching, research, and sharing what I learn through open source.
 
+———
 <div align="center">
 
-### Building software that connects machines, data, and modern computing.
+Building software that connects systems, solves practical problems, and makes complex work easier.
 
+Website · LinkedIn · X
 </div>
