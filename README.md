@@ -8,7 +8,6 @@ Building backend services, connected systems, and developer tools — primarily 
 
 </div>
 
-———
 
 ## About
 
@@ -27,7 +26,6 @@ Many of my open-source projects draw on my automation background. I enjoy applyi
 - Connectivity, real-time data, and visualization
 - Reliable, maintainable open-source software
 
-———
 
 ## Featured Open-Source Projects
 
@@ -41,7 +39,6 @@ The project includes APIs for Rust, C#, Python, C, and C++.
 
 Engineering focus: network protocols, asynchronous I/O, systems programming, and language interoperability.
 
-View repository →
 
 ### OpenWebHMI
 
@@ -51,7 +48,6 @@ The project explores real-time visualization, PLC connectivity, modular drivers,
 
 Engineering focus: backend architecture, real-time interfaces, modularity, and data flow.
 
-View repository →
 
 ### tinyPLC
 
@@ -61,9 +57,6 @@ The project is a way to study how programming languages become executable behavi
 
 Engineering focus: compilers, language implementation, and runtime design.
 
-Explore my projects →
-
-———
 
 ## Technical Background
 
@@ -85,7 +78,6 @@ I’ve worked with Allen-Bradley / Rockwell Automation, ControlLogix / CompactLo
 
 That experience gives me a practical foundation for designing software that interacts with hardware, networks, and real-world processes.
 
-———
 
 ## Education
 
@@ -99,7 +91,6 @@ Studies include software architecture and design, requirements engineering, veri
 
 Foundation in control systems, electrical systems, dynamics, robotics, and applied mathematics.
 
-———
 
 ## Beyond Engineering
 
@@ -107,7 +98,7 @@ I’m a father of two, a soccer fan, and someone who enjoys understanding how th
 
 Outside my core projects, I explore mathematics, algorithms, scientific computing, and computational science. I’m also interested in teaching, research, and sharing what I learn through open source.
 
-———
+
 <div align="center">
 
 Building software that connects systems, solves practical problems, and makes complex work easier.
