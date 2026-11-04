@@ -6,10 +6,6 @@
 
 Building backend services, connected systems, and developer tools — primarily with TypeScript and Rust.
 
-LinkedIn
-Website
-YouTube
-X
 </div>
 
 ———
@@ -116,5 +112,4 @@ Outside my core projects, I explore mathematics, algorithms, scientific computin
 
 Building software that connects systems, solves practical problems, and makes complex work easier.
 
-Website · LinkedIn · X
 </div>
