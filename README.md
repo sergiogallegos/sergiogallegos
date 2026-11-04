@@ -101,6 +101,5 @@ Outside my core projects, I explore mathematics, algorithms, scientific computin
 
 <div align="center">
 
-Building software that connects systems, solves practical problems, and makes complex work easier.
 
 </div>
