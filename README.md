@@ -2,7 +2,7 @@
 
 # Sergio Gallegos
 
-### Industrial Software Engineer
+### Industrial Automation & Software Engineering
 
 Building backend services, connected systems, and developer tools — primarily with TypeScript and Rust.
 
